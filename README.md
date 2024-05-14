@@ -10,7 +10,25 @@ python3 rock-n-roll.py
 
 ## Example
 
+### GPT-4o
+
 ```text
+Encoding "o200k_base", encoder.max_token_value=200018
+  Used by: gpt-4o
+  10: 微信公众号天天中彩票 🫣🫣🫣🫣免费视频观看 
+   9: 🫣🫣🫣有限公司官网 🫣🫣免费🫣在线精品 微信上的天天中彩票 给主人留下些什么吧 微信里的天天中彩票 天天中彩票大神推荐 
+   8: 彩神争霸大发快三 天天中彩票中大奖 ...
+   7: 天天中彩票怎么 天天中彩票提现 ...
+   6: 天天中彩票是 视频在线观看 ...
+   5: 天天中彩票 重庆时时彩 ...
+   4: 彩神争霸 彩神争霸 ...
+   3: 中彩票 时时彩 ...
+   2: 彩票 天天 ...
+```
+
+### GPT-4
+
+```
 Encoding "cl100k_base", `encoder.max_token_value=100276`
   Used by: gpt-4, gpt-3.5-turbo, gpt-3.5, gpt-35-turbo, davinci-002, babbage-002, text-embedding-ada-002, text-embedding-3-small, text-embedding-3-large
 
